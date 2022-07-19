@@ -1,0 +1,14 @@
+C:\Users\10462\Desktop\learn\cSharpLearn\CSharp编程第一季\004-字符类型\bin\Debug\netcoreapp3.1\004-字符类型.exe
+C:\Users\10462\Desktop\learn\cSharpLearn\CSharp编程第一季\004-字符类型\bin\Debug\netcoreapp3.1\004-字符类型.deps.json
+C:\Users\10462\Desktop\learn\cSharpLearn\CSharp编程第一季\004-字符类型\bin\Debug\netcoreapp3.1\004-字符类型.runtimeconfig.json
+C:\Users\10462\Desktop\learn\cSharpLearn\CSharp编程第一季\004-字符类型\bin\Debug\netcoreapp3.1\004-字符类型.runtimeconfig.dev.json
+C:\Users\10462\Desktop\learn\cSharpLearn\CSharp编程第一季\004-字符类型\bin\Debug\netcoreapp3.1\004-字符类型.dll
+C:\Users\10462\Desktop\learn\cSharpLearn\CSharp编程第一季\004-字符类型\bin\Debug\netcoreapp3.1\004-字符类型.pdb
+C:\Users\10462\Desktop\learn\cSharpLearn\CSharp编程第一季\004-字符类型\obj\Debug\netcoreapp3.1\004-字符类型.csproj.AssemblyReference.cache
+C:\Users\10462\Desktop\learn\cSharpLearn\CSharp编程第一季\004-字符类型\obj\Debug\netcoreapp3.1\004-字符类型.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10462\Desktop\learn\cSharpLearn\CSharp编程第一季\004-字符类型\obj\Debug\netcoreapp3.1\004-字符类型.AssemblyInfoInputs.cache
+C:\Users\10462\Desktop\learn\cSharpLearn\CSharp编程第一季\004-字符类型\obj\Debug\netcoreapp3.1\004-字符类型.AssemblyInfo.cs
+C:\Users\10462\Desktop\learn\cSharpLearn\CSharp编程第一季\004-字符类型\obj\Debug\netcoreapp3.1\004-字符类型.csproj.CoreCompileInputs.cache
+C:\Users\10462\Desktop\learn\cSharpLearn\CSharp编程第一季\004-字符类型\obj\Debug\netcoreapp3.1\004-字符类型.dll
+C:\Users\10462\Desktop\learn\cSharpLearn\CSharp编程第一季\004-字符类型\obj\Debug\netcoreapp3.1\004-字符类型.pdb
+C:\Users\10462\Desktop\learn\cSharpLearn\CSharp编程第一季\004-字符类型\obj\Debug\netcoreapp3.1\004-字符类型.genruntimeconfig.cache

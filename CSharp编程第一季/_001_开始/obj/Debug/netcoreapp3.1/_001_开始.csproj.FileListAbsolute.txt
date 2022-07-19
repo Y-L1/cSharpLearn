@@ -1,0 +1,14 @@
+C:\Users\10462\Desktop\learn\cSharpLearn\CSharp编程第一季\_001_开始\bin\Debug\netcoreapp3.1\_001_开始.exe
+C:\Users\10462\Desktop\learn\cSharpLearn\CSharp编程第一季\_001_开始\bin\Debug\netcoreapp3.1\_001_开始.deps.json
+C:\Users\10462\Desktop\learn\cSharpLearn\CSharp编程第一季\_001_开始\bin\Debug\netcoreapp3.1\_001_开始.runtimeconfig.json
+C:\Users\10462\Desktop\learn\cSharpLearn\CSharp编程第一季\_001_开始\bin\Debug\netcoreapp3.1\_001_开始.runtimeconfig.dev.json
+C:\Users\10462\Desktop\learn\cSharpLearn\CSharp编程第一季\_001_开始\bin\Debug\netcoreapp3.1\_001_开始.dll
+C:\Users\10462\Desktop\learn\cSharpLearn\CSharp编程第一季\_001_开始\bin\Debug\netcoreapp3.1\_001_开始.pdb
+C:\Users\10462\Desktop\learn\cSharpLearn\CSharp编程第一季\_001_开始\obj\Debug\netcoreapp3.1\_001_开始.csproj.AssemblyReference.cache
+C:\Users\10462\Desktop\learn\cSharpLearn\CSharp编程第一季\_001_开始\obj\Debug\netcoreapp3.1\_001_开始.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10462\Desktop\learn\cSharpLearn\CSharp编程第一季\_001_开始\obj\Debug\netcoreapp3.1\_001_开始.AssemblyInfoInputs.cache
+C:\Users\10462\Desktop\learn\cSharpLearn\CSharp编程第一季\_001_开始\obj\Debug\netcoreapp3.1\_001_开始.AssemblyInfo.cs
+C:\Users\10462\Desktop\learn\cSharpLearn\CSharp编程第一季\_001_开始\obj\Debug\netcoreapp3.1\_001_开始.csproj.CoreCompileInputs.cache
+C:\Users\10462\Desktop\learn\cSharpLearn\CSharp编程第一季\_001_开始\obj\Debug\netcoreapp3.1\_001_开始.dll
+C:\Users\10462\Desktop\learn\cSharpLearn\CSharp编程第一季\_001_开始\obj\Debug\netcoreapp3.1\_001_开始.pdb
+C:\Users\10462\Desktop\learn\cSharpLearn\CSharp编程第一季\_001_开始\obj\Debug\netcoreapp3.1\_001_开始.genruntimeconfig.cache
